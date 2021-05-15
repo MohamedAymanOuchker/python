@@ -2,4 +2,4 @@
 
 * Snake game demo :
 
-![](images/snake_game_demo.jpeg)
+![](images/demo.PNG)
