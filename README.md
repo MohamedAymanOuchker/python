@@ -16,6 +16,6 @@
 
 ![](images/demo4.PNG)
 
-* Pamdoro demo :
+* Pomodoro demo :
 
 ![](images/demo5.PNG)
