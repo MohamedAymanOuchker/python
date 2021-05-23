@@ -15,3 +15,7 @@
 * Us states game demo :
 
 ![](images/demo4.PNG)
+
+* Pamdoro demo :
+
+![](images/demo5.PNG)
