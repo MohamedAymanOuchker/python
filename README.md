@@ -19,3 +19,7 @@
 * Pomodoro demo :
 
 ![](images/demo5.PNG)
+
+* Password manager demo :
+
+![](images/demo6.PNG)
