@@ -23,3 +23,7 @@
 * Password manager demo :
 
 ![](images/demo6.PNG)
+
+* Flash Card demo :
+
+![](images/demo7.PNG)
