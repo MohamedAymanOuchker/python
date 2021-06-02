@@ -27,3 +27,7 @@
 * Flash Card demo :
 
 ![](images/demo7.PNG)
+
+* Quizzler App demo :
+
+![](images/demo8.PNG)
